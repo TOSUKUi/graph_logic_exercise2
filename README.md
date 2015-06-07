@@ -1,0 +1,2 @@
+# graph_logic_exercise2
+solution_of_report
